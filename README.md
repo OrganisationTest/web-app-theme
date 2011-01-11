@@ -157,3 +157,5 @@ Credits
 
 * Icons: FAMFAMFAM Silk icons <http://www.famfamfam.com/lab/icons/silk/>
 * Buttons: Particletree - Rediscovering the Button Element <http://particletree.com/features/rediscovering-the-button-element/>
+
+Comment for a usability test.
